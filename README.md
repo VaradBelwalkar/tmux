@@ -10,9 +10,9 @@ Go to previous window:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;` alt+j`
 
 Go to next window:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+l`
 
-Detach current session:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+d`
+Detach current session:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+d`
 
-Rename current window:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;` alt+r`
+Rename current window:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+r`
 
 Rename current session:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+s`
 
