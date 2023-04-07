@@ -1,6 +1,8 @@
 # tmux
 Configuration file for tmux user sessions
 
+TO PASTE THE CLIPBOARD CONTENT, JUST HOLD SHIFT, THEN DO CTRL+V
+
 Simple and easy to learn key bindings for tmux
 
 
