@@ -14,7 +14,7 @@ Detach current session:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+d`
 
 Rename current window:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+r`
 
-Rename current session:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+s`
+Rename current session:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+s`
 
 Go to next session:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`alt+k`
 
