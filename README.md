@@ -14,7 +14,7 @@ This is the tmux buffer which you are using, to copy this content to your system
  
  This will copy to system's clipboard and you are ready to go :)
     
-TO PASTE THE CLIPBOARD CONTENT, JUST HOLD SHIFT, THEN DO CTRL+V
+TO PASTE THE SYSTEM CLIPBOARD CONTENT, JUST HOLD SHIFT, THEN DO CTRL+V
 
 Simple and easy to learn key bindings for tmux
 
