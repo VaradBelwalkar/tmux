@@ -1,5 +1,5 @@
 # tmux
-Configuration file for tmux user sessions
+Configuration file for tmux user sessions  
 To copy content, just do control + b  then [ then using arrow keys get to the content and enter SPACE to start selecting, then once done, press ENTER
 
 Alternatively, simply scroll using mouse and select the text and once you remove your finger from mouse click you will return to original last prompt where you left,
@@ -41,12 +41,12 @@ Go to below pane | `alt+n` |
 
 ## Using Tmux in Windows
 
-To use tmux in windows, first install any distro of your choice on WSL, once installed, install tmux according to the distribution's docs,
+To use tmux in windows, first install any distro of your choice on WSL, once installed, install tmux according to the distribution's docs,  
 and after that, simply start it.
 
 You may ask i want the tmux to be working in windows environment right?
 
-Well it is pretty simple, simply run `powershell.exe` in the terminal and woh!
+Well it is pretty simple, simply run `powershell.exe` in the terminal and woh!  
 Powershell with windows info just got up right,
 
 now simply do `cd C:` and yup, you got into windows file system!
