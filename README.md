@@ -1,12 +1,20 @@
-# tmux
-Configuration file for tmux user sessions  
-To copy content, just do control + b  then [ then using arrow keys get to the content and enter SPACE to start selecting, then once done, press ENTER
+## tmux
+### Copying Content:
 
-Alternatively, simply scroll using mouse and select the text and once you remove your finger from mouse click you will return to original last prompt where you left,
+- To initiate copying, use Ctrl + B as the starting command.
+- Navigate to the content by pressing [ and utilize arrow keys for precise selection.
+- Press SPACE to begin selecting the desired text.
+- Upon completion, press ENTER to confirm the selection.
 
-with the text copied.
+### Alternative Method:
 
-Then to paste the content, just press CTRL + B then press ] to paste the copied test
+- Scroll through the content using the mouse.
+- Select the text by holding down the mouse click.
+- Release the mouse click to return to the original prompt with the text now copied.
+- Pasting Content:
+
+- For pasting, press Ctrl + B to activate the tmux command.
+- Press ] to paste the previously copied text.
 
 This is the tmux buffer which you are using, to copy this content to your system's clipboard, just enter following command while in tmux session: 
 ```    
